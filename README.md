@@ -1,5 +1,3 @@
-# Pandas-Learning-
-
 # 📊 Pandas-Learning
 
 🚀 **My Pandas Learning Journey**  
