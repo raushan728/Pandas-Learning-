@@ -11,8 +11,7 @@ Hi! 👋 I'm currently learning **Pandas**, a powerful data analysis library in 
 - 📘 Reading data from CSV/Excel files  
 - 📘 Filtering and selecting data  
 - 📘 Handling missing values  
-- 📘 GroupBy and aggregation  
-- 📘 Merging and joining  
+- 📘 GroupBy and aggregation    
 - 📘 Data cleaning and transformation  
 - 📘 Basic data visualization with Pandas  
 
